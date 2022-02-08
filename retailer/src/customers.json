@@ -1,0 +1,21 @@
+
+[
+    {
+        "id": 1,
+        "name": "customer1",
+        "spent": 150,
+        "points": 0
+    },
+    {
+        "id": 2,
+        "name": "customer2",
+        "spent": 250,
+        "points": 0
+    },
+    {
+        "id": 3,
+        "name": "customer3",
+        "spent": 550,
+        "points": 0
+    }   
+]
