@@ -6,7 +6,8 @@ import { React } from 'react';
 
     return(
         <div>
-            <h1>Hello Wold my guy</h1>
+            <h1>Hello World </h1>
+            <p>something else is made here..</p>
         </div>
     );
 
