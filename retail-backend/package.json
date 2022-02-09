@@ -1,7 +1,6 @@
 {
   "name": "retail-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,7 +15,11 @@
     "mongoose": "^6.2.1"
   },
   "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.5",
     "concurrently": "^7.0.0",
     "nodemon": "^2.0.15"
-  }
+  },
+  "keywords": [],
+  "description": "",
+  "type": "module" 
 }
